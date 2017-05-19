@@ -1,0 +1,69 @@
+﻿[
+  {
+    "Name": "Project 1",
+    "Date": "11/11/2017",
+    "Description": "This is the project description",
+    "Construction": [
+      {
+        "Implementation": "html text"
+      },
+      {
+        "LowRisk": "html text"
+      },
+      {
+        "PrepareDeployment": "html text"
+      },
+      {
+        "ProjectLocation": "html text"
+      }
+    ],
+    "Elaboration": [
+      {
+        "RefinedVision": "html text"
+      },
+      {
+        "CoreArchitecture": "html text"
+      },
+      {
+        "ResolutionHighRisk": "html text"
+      },
+      {
+        "IdentificationRequirementsScope": "html text"
+      },
+      {
+        "RealisticEstimates": "html text"
+      }
+    ],
+    "Inception": [
+      {
+        "ApproximateVision": "html text"
+      },
+      {
+        "BusinessCase": "html text"
+      },
+      {
+        "Scope": "html text"
+      },
+      {
+        "VagueEstimates": "html text"
+      },
+      {
+        "Glossary": "html text"
+      },
+      {
+        "RiskList": "html text"
+      },
+      {
+        "IterationPlan": "html text"
+      }
+    ],
+    "Transition": [
+      {
+        "BetaTest": "html text"
+      },
+      {
+        "Deployment": "html text"
+      }
+    ]
+  }
+]

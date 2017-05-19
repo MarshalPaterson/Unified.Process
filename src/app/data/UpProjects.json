@@ -1,0 +1,14 @@
+﻿[
+  {
+    "_id": "1234",
+    "date": "04/10/2007",
+    "name": "Awesome Project",
+    "description": "bla bla bla"
+  },
+  {
+    "_id": "1235",
+    "date": "04/10/2007",
+    "name": "Project Graham",
+    "description": "bla bla bla"
+  }
+]

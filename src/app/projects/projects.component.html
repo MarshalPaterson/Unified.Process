@@ -1,0 +1,13 @@
+<h2>Projects</h2>
+<nav>
+	<a class="button button-primary" (click)="clicked($event)">
+    Save
+  </a>
+</nav> 
+<table style="width:100%">
+  <tr *ngFor="let ups of (ups | async)">
+    <td>{{ ups.name }}</td>
+    <td>{{ ups.description }}</td>
+    <td>{{ ups.date }}</td>
+  </tr>
+</table>

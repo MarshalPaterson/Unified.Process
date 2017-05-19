@@ -1,0 +1,11 @@
+﻿{
+  "marketplace": "someurltomarketplace",
+  "plugins": [
+    "upteamplayer",
+    "upbi",
+    "updropbox",
+    "atlassian",
+    "salesforce"
+  ],
+  "version": "1.0.0"
+}

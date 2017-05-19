@@ -1,0 +1,69 @@
+{
+  "name": "unified.process",
+  "version": "1.0.0",
+  "description": "A simple starter for the Unified.Process",
+  "scripts": {
+    "build": "webpack --progress",
+    "watch": "npm run build -- --watch",
+    "server": "webpack-dev-server --inline --progress --port 3000 --content-base src",
+    "start": "npm run server"
+  },
+  "contributors": [
+    "Marshal Paterson"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@angular/animations": "^4.1.0",
+    "@angular/common": "^4.1.0",
+    "@angular/compiler": "^4.1.0",
+    "@angular/compiler-cli": "^4.1.0",
+    "@angular/core": "^4.1.0",
+    "@angular/forms": "^4.1.0",
+    "@angular/http": "^4.1.0",
+    "@angular/platform-browser": "^4.1.0",
+    "@angular/platform-browser-dynamic": "^4.1.0",
+    "@angular/platform-server": "^4.1.0",
+    "@angular/router": "^4.1.0",
+    "@angular/upgrade": "~2.2.1",
+    "angular2-datatable": "^0.6.0",
+    "angular2-in-memory-web-api": "0.0.21",
+    "angular2-tinymce": "^2.1.1",
+    "core-js": "2.4.1",
+    "ie-shim": "^0.1.0",
+    "ng2-smart-table": "^1.1.0",
+    "ng2-table": "^1.3.2",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "5.3.0",
+    "typescript": "2.3.1",
+    "zone.js": "0.8.9"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.48",
+    "angular2-router-loader": "^0.3.4",
+    "angular2-template-loader": "^0.6.2",
+    "awesome-typescript-loader": "3.1.3",
+    "css-loader": "^0.25.0",
+    "exports-loader": "^0.6.4",
+    "imports-loader": "^0.7.1",
+    "raw-loader": "^0.5.1",
+    "to-string-loader": "^1.1.4",
+    "typescript": "~2.3.2",
+    "webpack": "2.1.0-beta.27",
+    "webpack-dev-server": "2.1.0-beta.11",
+    "webpack-merge": "^0.15.0"
+  },
+  "keywords": [
+    "Angular",
+    "Redux",
+    "Unified Process",
+    "Angular 4"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarshalPaterson/Unified.Process.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/MarshalPaterson/Unified.Process/blob/master/README.md"
+}
